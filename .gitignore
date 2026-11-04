@@ -1,0 +1,7 @@
+NetBeans generated files
+
+/build/ /dist/ /nbbuild/ /nbdist/ /.nb-gradle/
+
+Java compiled files
+
+*.class
