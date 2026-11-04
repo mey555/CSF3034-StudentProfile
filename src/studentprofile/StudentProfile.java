@@ -22,6 +22,8 @@ public class StudentProfile {
         System.out.println("Name: Mey");
         System.out.println("Student ID: S88902");
         System.out.println("Programme: Bachelor of Computer Science");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Languange: Java");
     }
     
 }
